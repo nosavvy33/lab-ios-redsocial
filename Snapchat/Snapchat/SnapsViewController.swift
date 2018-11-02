@@ -7,7 +7,7 @@
 //
 
 import UIKit
-
+import Firebase
 class SnapsViewController: UIViewController {
 
     override func viewDidLoad() {
